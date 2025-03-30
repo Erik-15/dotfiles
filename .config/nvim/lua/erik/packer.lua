@@ -30,6 +30,7 @@ return require('packer').startup(function(use)
 	  "williamboman/mason.nvim",
 	  "williamboman/mason-lspconfig.nvim",
   }
-  use 'ThePrimeagen/harpoon'
-  use 'mbbill/undotree'
+  use({'mbbill/undotree'})
+  use({'nvim-lua/plenary.nvim'})
+  use({'ThePrimeagen/harpoon'})
 end)
