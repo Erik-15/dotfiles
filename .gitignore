@@ -3,4 +3,5 @@
 !/.config/nvim/
 !/.gitignore
 !/.tmux.conf
+!/README.md
 

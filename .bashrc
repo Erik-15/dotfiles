@@ -121,3 +121,4 @@ fi
 
 [[ -f ~/.bash-preexec.sh ]] && source ~/.bash-preexec.sh
 eval "$(atuin init bash --disable-up-arrow)"
+source /opt/ros/jazzy/setup.bash
