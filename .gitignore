@@ -1,0 +1,6 @@
+*           # Ignore all files by default
+!/.bashrc   # Track exceptions
+!/.config/nvim/
+!/.gitignore
+!/.tmux.conf
+
